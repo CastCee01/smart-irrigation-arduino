@@ -34,7 +34,7 @@ If it's not raining and the soil is dry, the valve opens.
 
 ---
 
-##  IoT Features (Optional)
+##  IoT Features (future integrations)
 - WiFi-enabled via ESP-01
 - Connects to Arduino IoT Cloud
 - Remote monitoring & control via Arduino Cloud Remote App
